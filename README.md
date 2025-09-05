@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivam Jasoliya  
 
-💻 **React Native Developer | iOS Native (Swift) Enthusiast | Freelancer**  
+💻 **React Native Developer | Freelancer**  
 
 I’m a **React Native developer with 5+ years of experience** building high-performing mobile apps.  
 From **dynamic startups to large-scale applications**, I’ve worked across industries—always focusing on creating the **best user experience possible**.  
