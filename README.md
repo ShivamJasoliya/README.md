@@ -1,88 +1,57 @@
 # 👋 Hi, I'm Shivam Jasoliya  
 
-💻 **React Native Developer | Freelancer**  
+💻 **Senior Mobile App Developer | React Native & Native iOS Specialist**
 
-I’m a **React Native developer with 5+ years of experience** building high-performing mobile apps.  
-From **dynamic startups to large-scale applications**, I’ve worked across industries—always focusing on creating the **best user experience possible**.  
+I’m a **Senior Mobile App Developer with 5+ years of experience** building, architecting, and scaling high-performing cross-platform and native iOS mobile applications. From dynamic startups to production-grade large-scale applications, I focus on delivering clean code, robust states, and low-latency real-time core functionalities.
 
 ---
 
 ## 🚀 About Me
-- ⚡ Build **hybrid mobile apps** with React Native for iOS & Android.  
-- 🍏 Tap into **iOS-native (Swift) features** to enhance performance & responsiveness.  
-- 🌐 Integrate **APIs & backend services** for rich, seamless functionality.  
-- 📈 Optimize apps for **performance, battery life, and speed**.  
-- 📲 Handle the **entire lifecycle**: development → testing → App Store / Play Store submission.  
-- 🔄 Work in **Agile workflows**, delivering fast iterations and improvements.  
-- 🌍 Stay updated with **modern industry trends** to build future-ready solutions.  
+- ⚡ **Cross-Platform Mastery:** Build production-ready hybrid mobile apps with React Native (0.83+) using the New Architecture (JSI & Fabric).
+- 🍏 **iOS Ecosystem Specialist:** Tap into Native iOS features using Swift & Objective-C to create custom native bridges.
+- 🏗️ **Architectural Excellence:** Specialized in Atomic Architecture, Scalable Architecture Design, and clean code practices.
+- 🌐 **Real-Time Infrastructure:** Expert in integrating multi-party LiveKit WebRTC consultations, native VoIP frameworks, and WebSockets.
+- 📈 **Performance Optimization:** Highly skilled in runtime memory profiling, thread synchronization, and advanced list virtualization.
+- 📲 **End-to-End Delivery:** Handle the entire software deployment pipeline from development to automated CI/CD pipelines and App Store / Play Store submissions.
+- 🔄 **Technical Leadership:** Experienced in managing cross-functional teams, directing technical seminars, and leading fast-prototyping hackathons.
 
-At the end of the day, I love building **apps that people truly enjoy using**.  
+---
+
+## ✨ Highlighted Features & Production Expertise
+
+🚀 Over my career, I have specialized in engineering high-impact, complex features from scratch:
+
+- 🎥 **Real-Time WebRTC Video Infrastructure:** Engineered multi-party video consulting rooms using LiveKit WebRTC with complete native Picture-in-Picture (PiP) display support.
+- 📞 **Native VoIP Handling:** Configured CallKit, ConnectionService, and CallKeep to trigger native incoming VoIP screen alerts.
+- 🤖 **AI & Automation Integration:** Implemented automated plan itinerary rescheduling engines powered by external AI APIs and custom questionnaire models to train digital avatars.
+- 👆 **Gesture-Driven Core UIs:** Formulated custom interactive calendar architectures featuring complex drag-and-drop mechanics for fluid item management.
+- 👁️ **Biometric & Vision ML:** Developed identity verification workflows utilizing face-detection logic to dynamically validate real-time asset clarity and visibility.
+- 🏷️ **Advanced Tracking & Engagement:** Configured extensive analytical funnels and transactional messaging tracks using CleverTap and Firebase ecosystems.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:**  
-  JavaScript, TypeScript, Swift, Objective-C (basic)
+- **Languages:** TypeScript, JavaScript (ES6+), Swift, Objective-C
 
-- **Frameworks & Libraries:**  
-  React Native (CLI & Expo), Redux, Redux Toolkit, Redux Saga, Redux Thunk, Zustand, React Query, Apollo Client (GraphQL)
+- **Frameworks & Libraries:** React Native (0.83+), iOS SDK, Redux Toolkit, Redux, Expo, ExpoGo, React Native CLI
 
-- **UI / UX:**  
-  React Native Paper, Native Base, Tailwind RN, Custom reusable components
+- **Architecture & Performance Core:** Atomic Architecture, New Architecture (Fabric, JSI), Custom Native Bridges, Reusable Component Systems, Custom React Hooks, Memory Profiling
 
-- **Backend & APIs:**  
-  Firebase (Auth, Firestore, Storage, FCM), REST APIs, GraphQL
+- **App Features & SDK Integrations:** CleverTap, Deep Linking (Universal/App Links), Push Notifications (FCM, Notifee), Core Audio UI, Interactive Maps & Geofencing
 
-- **Databases & Storage:**  
-  SQLite, AsyncStorage, SecureStore
+- **Protocols, AI & ML:** AI Itinerary Automation, LiveKit WebRTC, Native VoIP Core (CallKit, ConnectionService, CallKeep), ML Kit / Vision Face Detection
 
-- **State Management & Hooks:**  
-  React Hooks (default & custom), Context API, Redux (Toolkit, Saga, Thunk), Zustand, React Query
+- **Cloud, Databases & Storage:** Firebase (Firestore, Realtime DB, Cloud Functions, Auth, Storage), GraphQL, REST APIs, AWS (Lambda, SNS), SQLite, Algolia Search, GetStream SDK
 
-- **Analytics & Tracking:**  
-  Firebase Analytics, CleverTap, Google Analytics (GA)
-
-- **Tools & Platforms:**  
-  Xcode, Android Studio
-
-
----
-
-## 📂 Highlighted Projects
-
-🚀 I’ve just started building **feature-based React Native repositories** to showcase my skills.  
-These projects will be added here as I complete them. Stay tuned!  
-
-### 🔐 React Native Auth System *(Coming Soon)*  
-Complete authentication flow with Firebase (Email/Password, OTP, Google/Apple login).  
-
-### 🌗 React Native Theme Switcher *(Coming Soon)*  
-Light/Dark mode with system preference support & persistent storage.  
-
-### 🎥 React Native Media Viewer *(Coming Soon)*  
-Single component to preview **Image, Video, PDF, SVG, and Audio** from a URL.  
-
-### 🛰️ React Native API Pagination *(Coming Soon)*  
-Infinite scroll + pull-to-refresh + offline caching using Axios & React Query.  
-
-### 🛒 React Native Mini E-Commerce *(Coming Soon)*  
-Mini shopping cart app with Redux Toolkit, cart persistence, and checkout mock.  
-
-### And many more.......
-
----
-
-## 📊 GitHub Stats
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-Jasoliya&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Jasoliya&layout=compact&theme=tokyonight)  
+- **DevOps, CI/CD & Testing:** GitHub Actions, App Store Connect (TestFlight), Google Play Console, Firebase Crashlytics & Analytics, Jest, Xcode, Android Studio, VS Code, Git
 
 ---
 
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-jasoliya-490299148/)  
-- ✉️ [Email Me](mailto:shivamjasoliya1920.com)  
+- 📱 **Mobile:** [+91 7201018158](tel:+917201018158)
+- ✉️ [Email Me](mailto:shivamjasoliya1920@gmail.com)
 - 📂 [GitHub Repos](https://github.com/Shivam-Jasoliya)  
 
 ---
